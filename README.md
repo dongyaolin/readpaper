@@ -1,6 +1,7 @@
 # readpaper
 read paper with llm
-订阅期刊论文到邮箱
+
+前置条件:订阅期刊论文到邮箱
 
 1. 将邮件内容复制到文本文件.
 2. 读取文本文件并正则匹配相关论文和github url.
